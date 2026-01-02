@@ -58,3 +58,10 @@ This project is ready for deployment on **Render** (Free Tier).
 - `Procfile`: Deployment configuration.
 - `requirements.txt`: Python dependencies.
 
+## 📊 Dataset
+The datasets used in this project can be found here:
+- [**Download Link 1**](https://drive.google.com/file/d/16ec9ANgD799x1L70HPGaxm2AjtwXjIxI/view?usp=sharing)
+- [**Download Link 2**](https://drive.google.com/file/d/19Fe0QZkNJzvPL5_MZpmN54syLJ1hr9Dj/view?usp=sharing)
+- [**Download Link 3**](https://drive.google.com/file/d/1DPnpfKmmyye8Z1vm7yHa_CrVa8UIG_ZZ/view?usp=sharing)
+
+
