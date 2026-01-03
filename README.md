@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book Recommender System
 
 A Machine Learning based Book Recommender System using Collaborative Filtering.
@@ -65,3 +66,6 @@ The datasets used in this project can be found here:
 - [**Download Link 3**](https://drive.google.com/file/d/1DPnpfKmmyye8Z1vm7yHa_CrVa8UIG_ZZ/view?usp=sharing)
 
 
+=======
+# Book-Recommendation-System
+>>>>>>> 64c601da569126cf8bda55e24c13e47cc7e0a3b3
